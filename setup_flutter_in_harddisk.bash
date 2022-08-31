@@ -24,7 +24,7 @@ ln -s /Volumes/KIRWA-KO/macos13/.android ~/.android;
 ln -s /Volumes/KIRWA-KO/macos13/.dartServer ~/.dartServer;
 
 echo -e "🚀 ${BGreen}Downloading Flutter SDK${Color_Off}";
-curl -L -o /Volumes/KIRWA-KO/macos13/flutter.zip https://storage.googleapis.com/flutter_infra_release/releases/stable/macos/flutter_macos_3.0.2-stable.zip;
+curl -L -o /Volumes/KIRWA-KO/macos13/flutter.zip https://storage.googleapis.com/flutter_infra_release/releases/stable/macos/flutter_macos_3.3.0-stable.zip;
 
 echo -e "⚒ ${BGreen}Extracting Flutter SDK${Color_Off}";
 cd /Volumes/KIRWA-KO/macos13 && unzip flutter.zip -d /Volumes/KIRWA-KO/macos13/Flutter
