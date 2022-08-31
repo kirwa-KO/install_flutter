@@ -64,5 +64,5 @@ echo -e "${BYellow}Note:${Color_Off} The other XCode ${BRed}error${Color_Off} ca
 
 echo -e "🎉 ${BGreen}Gongrats Flutter is Ready to use!${Color_Off}\n"
 echo -e "Now,${BBlue}You can create a new project${Color_Off} by Selecting ${BBlue}New Flutter${Color_Off} Project or ${BBlue}New Project${Color_Off} if you do Native Android\n"
-echo -e "${BYellow}Note:${Color_Off} if you are asked for ${BRed}flutter SDK Path${Color_Off}, here it is ${BBlue}$HOME/goinfre/Flutter/flutter${Color_Off}"
+echo -e "${BYellow}Note:${Color_Off} if you are asked for ${BRed}flutter SDK Path${Color_Off}, here it is ${BBlue}/Volumes/KIRWA-KO/macos13/Flutter/flutter${Color_Off}"
 echo -e "${BYellow}Note:${Color_Off} After the project is created, you ${BBlue}may need${Color_Off} to show it where SDK is, the ${BBlue}first time${Color_Off}, so go to ${BBlue}File > Project Structure > and where it says <No SDK>, select Android API 31...${Color_Off}"
